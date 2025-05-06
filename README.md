@@ -11,6 +11,7 @@ This repository contains my daily practice notebooks for learning image processi
 | 03  | Contour Cleanup | Basic vs improved contour detection with morphological operations | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/03-contour-cleanup.ipynb) |
 | 04  | Contour Approximation & Hull | Uses approxPolyDP and convex hull for contour analysis | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/04-contour-approximation-and-hull.ipynb) |
 | 05  | Line Detection – Hough Transform | Line detection using Canny edge and probabilistic Hough transform | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/05-hough-lines-detection.ipynb) |
+| 06  | Circle Detection – Hough Transform | Detects circular objects (coins) using HoughCircles with param tuning | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/06-hough-circle-detection.ipynb) |
 
 
 
