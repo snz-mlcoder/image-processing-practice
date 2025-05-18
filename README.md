@@ -16,7 +16,8 @@ This repository contains my daily practice notebooks for learning image processi
 | 08  | Depth Map – Class-Based | Object-oriented stereo depth map computation with SGBM and Matplotlib | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/08-depthmap-class-based.ipynb) |
 | 09  | GrabCut Segmentation | Foreground extraction using GrabCut algorithm with rectangular initialization | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/09-grabcut-segmentation.ipynb) |
 | 10  | Watershed Segmentation | Image segmentation using Watershed with Otsu thresholding and distance transform | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/10-watershed-segmentation.ipynb) |
-| 11  | Harris Corner Detection | Detects corner features in an image using OpenCV’s Harris corner algorithm | [🔗 Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/11-harris-corner-detection.ipynb) |
+| 11  | Harris Corner Detection | Detects corner features in an image using OpenCV’s Harris corner algorithm | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/11-harris-corner-detection.ipynb) |
+| 12  | SIFT with Keypoint Filtering | Detects and visualizes strong keypoints using OpenCV SIFT with a response-based filter | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/12-sift-keypoints-filtered.ipynb) |
 
 
 
