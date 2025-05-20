@@ -21,6 +21,7 @@ This repository contains my daily practice notebooks for learning image processi
 | 13  | ORB Feature Matching | Detects and matches keypoints between two images using ORB and Brute-Force with Hamming distance | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/13-orb-feature-matching.ipynb) |
 | 14  | ORB + KNN + Ratio Test | Uses ORB and knnMatch with Lowe's ratio test to improve matching accuracy | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/14-orb-knn-ratio-test.ipynb) |
 | 15  | SIFT + FLANN Matching | Uses SIFT features with FLANN-based matcher and Lowe’s ratio test for robust feature matching | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/15-sift-flann-feature-matching.ipynb) |
+| 16  | SIFT + FLANN + Homography | Detects and matches keypoints with SIFT and FLANN, then estimates homography using RANSAC | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/notebooks/16-sift-flann-homography.ipynb) |
 
 
 
