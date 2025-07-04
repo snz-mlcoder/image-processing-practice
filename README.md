@@ -25,6 +25,7 @@ This repository contains my daily practice notebooks for learning image processi
 | 17  | SIFT + Homography Warping | Applies homography to warp the query image and overlay it onto the scene | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/17-sift-warp-homography.ipynb) |
 | 18  | People Detection – HOG | Detects pedestrians using HOG features with SVM classifier and filters nested rectangles | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/18-PeopleDetection-HOG.ipynb) |
 | 19  | FAST Feature Detection | Keypoint detection using FAST algorithm with and without non-max suppression | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/19-fast-feature-detection.ipynb) |
+| 20  | FAST + BRIEF Feature Descriptors | Keypoint detection with FAST and descriptor extraction using BRIEF | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/20-fast-brief.ipynb) |
 
 
 ---
