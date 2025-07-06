@@ -27,6 +27,7 @@ This repository contains my daily practice notebooks for learning image processi
 | 19  | FAST Feature Detection | Keypoint detection using FAST algorithm with and without non-max suppression | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/19-fast-feature-detection.ipynb) |
 | 20  | FAST + BRIEF Feature Descriptors | Keypoint detection with FAST and descriptor extraction using BRIEF | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/20-fast-brief.ipynb) |
 | 21  | Contour Shape Matching | Finds the contour in a target image that most closely matches a reference shape using `cv2.matchShapes`. | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/21-contour-shape-matching.ipynb) |
+| 22  | Convexity Defects + Approximation | Uses `cv2.approxPolyDP` to smooth noisy contours before detecting convexity defects for reliable analysis. | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-practice/blob/main/22-convexity-defects-approximation.ipynb) |
 
 
 ---
